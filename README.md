@@ -2,6 +2,8 @@
 
 This repository has some of the workbooks created during the Algorithm specialization course from Stanford on Coursera.
 
+Any data or input files used in the codes are in the data folder.
+
 The topics covered in this repository are :
 
  - Karatsuba algorithm for large integer multiplication
