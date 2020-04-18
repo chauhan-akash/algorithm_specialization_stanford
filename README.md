@@ -9,3 +9,4 @@ The topics covered in this repository are :
  - Karatsuba algorithm for large integer multiplication
  - Counting inversions in an array using merge sort algorithm
  - Quicksort algorithm with first, last, random and middle element as pivots
+ - Karger's algorithm to calculate the min cut for a graph
